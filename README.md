@@ -8,10 +8,9 @@
 
 💪🏾 I try and workout my body (in the gym) and my mind (building various front-end projects) on a regular basis. 
 
-🌱 I'm currently learning GraphQL. It's been fun!
+🌱 I'm currently solutioning a NexJS application which uses Amplience CMS thru Apollo GraphQL. It's been interesting...
 
 ### 🔧 Technologies I'm passionate about
-
 <!-- use https://simpleicons.org/ to find icons and colors -->
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&labelColor=121212&color=007ACC)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
@@ -39,7 +38,12 @@
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat-square&logo=github&logoColor=white&labelColor=121212&color=181717)
 ![Storybook](https://img.shields.io/badge/Tool-Storybook-informational?style=flat-square&logo=storybook&logoColor=white&labelColor=121212&color=FF4785)
 ![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat-square&logo=npm&logoColor=white&labelColor=121212&color=CB3837)
+![pnpm](https://img.shields.io/badge/Tool-pnpm-informational?style=flat-square&logo=pnpm&logoColor=white&labelColor=121212&color=F69220)
 ![Postman](https://img.shields.io/badge/Tool-Postman-informational?style=flat-square&logo=postman&logoColor=white&labelColor=121212&color=FF6C37)
 ![Google_Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat-square&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
+
+### 🕵🏾‍♂️ Some more stats on GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famu1hundred&theme=dark&bg_color=121212)](https://github.com/famu1hundred/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=famu1hundred&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
 
 
