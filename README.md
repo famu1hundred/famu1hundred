@@ -16,9 +16,11 @@
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&labelColor=121212&color=007ACC)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&labelColor=121212&color=61DAFB)
+![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white&labelColor=121212&color=C3002F)
 ![ReactiveX](https://img.shields.io/badge/Code-ReactiveX-informational?style=flat-square&logo=reactivex&logoColor=white&labelColor=121212&color=B7178C)
 ![Redux](https://img.shields.io/badge/Code-Redux-informational?style=flat-square&logo=redux&logoColor=white&labelColor=121212&color=764ABC)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&labelColor=121212&color=339933)
+![ApolloGraphQL](https://img.shields.io/badge/Code-Apollo-informational?style=flat-square&logo=apollographql&logoColor=white&labelColor=121212&color=311C87)
 ![GraphQL](https://img.shields.io/badge/Code-GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&labelColor=121212&color=E10098)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3&logoColor=white&labelColor=121212&color=1572B6)
 ![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat-square&logo=sass&logoColor=white&labelColor=121212&color=CC6699)
@@ -39,6 +41,5 @@
 ![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat-square&logo=npm&logoColor=white&labelColor=121212&color=CB3837)
 ![Postman](https://img.shields.io/badge/Tool-Postman-informational?style=flat-square&logo=postman&logoColor=white&labelColor=121212&color=FF6C37)
 ![Google_Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat-square&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
-![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=typescript&logoColor=white&labelColor=121212&color=007ACC)
 
 
