@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&labelColor=121212&color=61DAFB)
 ![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white&labelColor=121212&color=C3002F)
 ![ReactiveX](https://img.shields.io/badge/Code-ReactiveX-informational?style=flat-square&logo=reactivex&logoColor=white&labelColor=121212&color=B7178C)
+![NativeScript](https://img.shields.io/badge/Code-NativeScript-informational?style=flat-square&logo=nativescript&logoColor=white&labelColor=121212&color=65ADF1)
 ![Redux](https://img.shields.io/badge/Code-Redux-informational?style=flat-square&logo=redux&logoColor=white&labelColor=121212&color=764ABC)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&labelColor=121212&color=339933)
 ![ApolloGraphQL](https://img.shields.io/badge/Code-Apollo-informational?style=flat-square&logo=apollographql&logoColor=white&labelColor=121212&color=311C87)
