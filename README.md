@@ -43,7 +43,7 @@
 ![Google_Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat-square&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
 
 ### 🕵🏾‍♂️ Some more stats on GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famu1hundred&theme=dark&bg_color=121212)](https://github.com/famu1hundred/github-readme-stats)
-![Stats](https://github-readme-stats.vercel.app/api?username=famu1hundred&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famu1hundred&count_private=true&theme=nightowl)](https://github.com/famu1hundred/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=famu1hundred&count_private=true&show_icons=true&theme=nightowl&bg_color=121212&icon_color=F78C6C)
 
 
